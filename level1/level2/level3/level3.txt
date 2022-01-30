@@ -1,5 +1,0 @@
-what bak files do you talking about.
-The only ones I’m aware of are the ones which do get created if you have
-simple aor verbose backups configured.
-But these are needed if you want to have this kind of backups.
-Settings->Preferences->Backup->Backup on save

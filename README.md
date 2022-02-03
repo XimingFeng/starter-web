@@ -1,6 +1,6 @@
 # Starter Web Project
 This is a simple website project for showing how to use git 
-and github together
+and github together. Adding a line rebasing example
 
 ## Intruction
 This is example to show different parts of Git repository 
